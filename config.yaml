@@ -36,6 +36,6 @@ markup:
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      unsafe: yes
+      unsafe: True
   highlight:
-    codeFences: no
+    codeFences: False
